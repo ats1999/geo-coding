@@ -3,8 +3,8 @@ import MapGlDraw from "./MapGlDraw";
 function App() {
   return (
     <div className="App">
-      {/* <GeoCoding /> */}
-      <MapGlDraw/>
+      <GeoCoding />
+      {/* <MapGlDraw/> */}
     </div>
   );
 }
