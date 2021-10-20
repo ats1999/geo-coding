@@ -1,7 +1,10 @@
+import GeoCoding from "./GeoCoding";
+import MapGlDraw from "./MapGlDraw";
 function App() {
   return (
     <div className="App">
-      <h1>App1</h1>
+      {/* <GeoCoding /> */}
+      <MapGlDraw/>
     </div>
   );
 }
